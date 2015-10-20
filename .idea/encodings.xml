@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/haoroid/mylocationprovider/AllProviderTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/haoroid/mylocationprovider/DateToWeekUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/haoroid/mylocationprovider/MySharePreferences.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/haoroid/mylocationprovider/MySharedPreferences.java" charset="UTF-8" />
+  </component>
+</project>

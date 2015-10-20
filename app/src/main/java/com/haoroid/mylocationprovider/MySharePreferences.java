@@ -27,7 +27,7 @@ public class MySharePreferences extends Activity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String s = "2015.10.27";
+                String s = "2015.10.24";
                 Toast.makeText(MySharePreferences.this,DateToWeekUtils.dateToWeek(s)+"//"+s,Toast.LENGTH_SHORT).show();
             }
         });
